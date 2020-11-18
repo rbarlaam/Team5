@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -lrtS | tail -n 1 >> 001.out
+ls -lrtS | tail -n 1 > 001.out
